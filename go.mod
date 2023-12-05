@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-amqp
+module github.com/m3tomlins/xk6-amqp
 
 go 1.19
 
@@ -31,4 +31,4 @@ require (
 	gopkg.in/guregu/null.v3 v3.3.0 // indirect
 )
 
-replace github.com/grafana/xk6-amqp v0.4.1 => github.com/m3tomlins/xk6-amqp v0.4.1
+replace github.com/grafana/xk6-amqp v0.4.1 => github.com/m3tomlins/xk6-amqp v0.4.2
