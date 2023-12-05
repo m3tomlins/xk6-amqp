@@ -30,3 +30,5 @@ require (
 	golang.org/x/time v0.3.0 // indirect
 	gopkg.in/guregu/null.v3 v3.3.0 // indirect
 )
+
+replace github.com/grafana/xk6-amqp v0.4.1 => github.com/m3tomlins/xk6-amqp v0.4.2
